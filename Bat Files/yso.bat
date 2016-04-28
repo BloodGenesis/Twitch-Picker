@@ -1,0 +1,1 @@
+start /d "G:\Ys Origin" yso_win.exe

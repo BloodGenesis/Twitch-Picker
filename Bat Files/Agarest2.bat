@@ -1,0 +1,1 @@
+start /d "G:\Agarest - Generations of War 2\" Agarest2.exe

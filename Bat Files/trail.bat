@@ -1,0 +1,1 @@
+start /d "G:\The Legend of Heroes Trails in the Sky\" Config.exe

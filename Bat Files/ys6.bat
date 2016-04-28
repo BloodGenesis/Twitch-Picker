@@ -1,0 +1,1 @@
+start /d "G:\Ys VI - The Ark of Napishtim\" ys6_win.exe

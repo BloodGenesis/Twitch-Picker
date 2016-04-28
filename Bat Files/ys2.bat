@@ -1,0 +1,1 @@
+start /d "G:\Ys II\" ys2plus.exe

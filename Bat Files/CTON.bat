@@ -1,0 +1,1 @@
+start /d "G:\Celestian Tales - Old North\" CTON_launcher.exe

@@ -1,0 +1,1 @@
+start /d "G:\Ys The Oath in Felghana" ysf_win.exe

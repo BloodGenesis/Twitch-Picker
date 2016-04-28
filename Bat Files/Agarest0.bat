@@ -1,0 +1,1 @@
+start /d "G:\Agarest - Generations of War Zero\" AgarestZero.exe

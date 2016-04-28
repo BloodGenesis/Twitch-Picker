@@ -1,0 +1,1 @@
+start /d "G:\Recettear - An Item Shop's Tale\" recettear.exe
