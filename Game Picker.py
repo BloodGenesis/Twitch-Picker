@@ -34,7 +34,7 @@ def rand_genre_game(ga):
             gamec = Text(Point(250, 60), 'You will be playing: ')
             gamec.draw(win)
         
-            win.getMouse()
+            
             gamec.setText('You will be playing: ' + game[0])            
             yesbox = Rectangle(Point(100, 100), Point(200, 150))
             yesbox.draw(win)
